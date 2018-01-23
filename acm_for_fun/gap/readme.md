@@ -1,0 +1,1 @@
+the question is named "gap", its from [hdu_acm](http://acm.hdu.edu.cn/showproblem.php?pid=1067)
